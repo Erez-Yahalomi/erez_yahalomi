@@ -25,6 +25,7 @@ I developed AI software that identifies by itself if there are fractures in the 
 *   [הפוסט המלא ב-LinkedIn | Full LinkedIn Post](https://www.linkedin.com/posts/erezmy_deeplearning-medicaldiagnosis-neuralnetworks-activity-7419491379107561472-2Odf)
 *   [קישור למאמר | Link to Article](https://lnkd.in/dsMxAgQX)
 *   [פרופיל LinkedIn | LinkedIn Profile](https://il.linkedin.com/in/erezmy)
+*   [פרופיל Google Scholar | Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=erez+yahalomi&oq=)
 *   [פרופיל GitHub | GitHub Profile](https://github.com/Erez-Yahalomi)
 
 ---
